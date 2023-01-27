@@ -1,23 +1,23 @@
 # Workplace-Administration-as-Showcase
 
-**Role**
 
-I was the App developer who developed the app for IOS ,Android and Web
-Project goal
-My client wanted a administration app where he can add jobs/projects and assigns , schedule  his staff.
-Some of the main highlights of the app are:
-The app is role-based and have different features for admin and employee.
-Admin assigns schedule to specific staff for specific projects
-Employee adds timesheet according to the assigned schedule.
-All users can chat one to one or can have a group chat.
-Every user can set up his own profile.
+## Introduction
+I am the developer who created a workplace administration app for IOS, Android, and web. My client wanted an app where they could add jobs/projects, assign and schedule their staff. The app is role-based and has different features for the admin and employees. 
 
-The app is available on IOS , Android and Web
+## Key Features
+- Role-based access with different features for admin and employee.
+- Admin assigns schedule to specific staff for specific projects
+- Employee adds timesheet according to the assigned schedule.
+- All users can chat one to one or can have a group chat.
+- Every user can set up his own profile.
+
+The app will be available on IOS , Android and Web
 
 Here are some initials that my client gave me
 Template 1 | Template  2 | Template 3
 --- | --- | ---
 ![image mock-up](https://user-images.githubusercontent.com/103773636/214932656-eeb248be-36b4-403d-aaaf-24cdeb0054bb.png) | ![image mock-up](https://user-images.githubusercontent.com/103773636/214932857-3281e1c5-980d-4c00-b5a7-64353fc9d267.png) | ![image mock-up ](https://user-images.githubusercontent.com/103773636/214932909-b82e8faa-3b70-484b-8ff3-0b1b169941d8.png)
+
 
 **Solution**
 After discussing the requirements with clients , i developed the app and now client is very satisfied with the results.
@@ -59,6 +59,7 @@ Create Employee Login from inside of the app | All Employees | Employee Credient
 --- | --- | ---
 ![image](https://user-images.githubusercontent.com/103773636/214942206-059099f9-81e4-4b3d-94eb-6ba66561a378.png) | ![image](https://user-images.githubusercontent.com/103773636/214942241-cd1ee105-6201-4648-9aef-8908da7fc966.png) | ![image](https://user-images.githubusercontent.com/103773636/214942267-39501c70-b3a0-4194-a067-67216a46d323.png)
 
+The Workplace Administration app is a sleek, modern and user-friendly app that was developed to meet the requirements of the client. The app's main feature is a role-based system, where admin can assign schedules and projects to specific staff, while the employee can add timesheets according to the assigned schedule. This allows for efficient communication and organization within the workplace. Additionally, the app includes a one-to-one and group chat feature, allowing for easy communication between staff members. The app will be available on IOS, Android and Web, making it accessible to a wide range of users. 
 App have other features too which i will add later here!
 
 
