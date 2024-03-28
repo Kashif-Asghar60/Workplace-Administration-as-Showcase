@@ -2,7 +2,7 @@
 
 
 ## Introduction
-I am the developer who created a workplace administration app for IOS, Android, and web. My client wanted an app where they could add jobs/projects, assign and schedule their staff. The app is role-based and has different features for the admin and employees. 
+I developed workplace administration app for IOS, Android, and web. My client wanted an app where they could add jobs/projects, assign and schedule their staff. The app is role-based and has different features for the admin and employees. 
 
 ## Key Features
 - Role-based access with different features for admin and employee.
